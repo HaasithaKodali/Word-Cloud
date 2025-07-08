@@ -89,7 +89,7 @@ word-cloud/
 ## 👨‍💻 Author
 
 **Haasitha Kodali**
-[Email](mailto:kodalihaasitha@gmail.com) | [LinkedIn](https://linkedin.com/in/KodaliHaasitha)
+[Email](mailto:kodalihaasitha@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/haasitha-kodali/])
 
 ---
 
