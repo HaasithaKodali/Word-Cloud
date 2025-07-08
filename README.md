@@ -77,12 +77,6 @@ word-cloud/
 
 ---
 
-## 🖼️ Sample Output
-
-![Word Cloud Example](static/wordcloud.png)
-
----
-
 ## 🔮 Possible Enhancements
 
 * Support for different shapes, colors, and fonts in the cloud
